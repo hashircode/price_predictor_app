@@ -2,6 +2,11 @@ Multi-Product Price Estimator App
 
 This project is a modular web application built with Streamlit that provides price estimates for three different product categories: Used Cars, Mobile Phones, and Houses. It uses distinct Linear Regression models for each product, demonstrating an efficient, data-driven approach to price prediction.
 
+![img alt](https://github.com/hashircode/price_predictor_app/blob/main/predictor.png)
+
+## Architecture 
+![Architecture](https://github.com/hashircode/price_predictor_app/blob/main/arcitecture.png)
+
 ✨ Features
 
 
