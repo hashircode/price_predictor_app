@@ -57,6 +57,6 @@ Enter the required features for the chosen product.
 
 Click the "Get Estimate" button to see the result.
 
-## Authors
+## Author
 
 * **[Muhammad Hashir](https://github.com/account)**
