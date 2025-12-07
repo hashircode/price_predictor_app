@@ -56,3 +56,7 @@ Use the sidebar radio buttons to switch between Car, Mobile, and House predictio
 Enter the required features for the chosen product.
 
 Click the "Get Estimate" button to see the result.
+
+## Authors
+
+* **[Muhammad Hashir](https://github.com/account)**
